@@ -1,0 +1,128 @@
+.nav {
+	width: 1519.2px;
+	height: 60px;
+}
+.nav img {
+	margin: 0 1200px 0 80px;
+}
+.nav ul {
+	list-style-type: none;
+	margin: -60px 400px;
+}
+.nav ul li {
+	float: left;
+}
+.nav ul li a {
+	text-decoration: none;
+	padding: 26px 10px 38px 10px;
+	font-size: 17px;
+	color: #1F52B3
+}
+.nav ul li a:hover {
+	color: #EE46AB;
+	font-size: 20px;
+}
+.aside {
+	width: 83.6px;
+	height: 469.3px;
+	position: fixed;
+	right: 0;
+	top: 160px;
+}
+.aside a {
+	text-decoration: none;
+	width: 82px;
+	height: 90px;
+	display: block;
+}
+.aside a:hover {
+	font-size: 18px;
+	color: #D87410
+}
+.aside a img {
+	margin-left: 20px;
+}
+.aside a p {
+	width: 82px;
+	height: 21px;
+	margin-left: 8px;
+}
+.banner {
+	width: 234px;
+	height: 460px;
+}
+#aside {
+	line-height: 3em;
+	margin-left: 100px;
+	display: block;
+}
+#aside ul {
+	list-style-type: none;
+	width: 234px;
+	height: 460px;
+}
+#aside ul li {
+	width: 234px;
+	height: 42px;
+	margin-right: 40px;
+}
+#aside ul li a {
+	text-decoration: none;
+	font-size: 17px;
+	width: 204px;
+	height: 50px;
+	line-height: 60px;
+	color: #1032C0;
+	font-size: 20px;
+	display: block;
+	background: url(../image/sec_menu_bg_b.jpg)
+}
+#aside ul li a:hover {
+	color: aliceblue;
+	background: #173BAB
+}
+.banner0 {
+	transform: translate(350px, -500px)
+}
+.banner0 img:hover{transform: scale(-1,1.1)}
+.banner1 {
+	padding-left: 90px;
+	width: 1519.2px
+}
+.banner1 img:hover{transform: scale(1.1,1.1)}
+.banner2 {
+	list-style-type: none;
+	width: 1280px;
+	height: 700px
+}
+.banner2 h {
+	display: block;
+}
+.banner2 a{
+	margin-left: 1160px;
+	text-decoration: none;
+	font-size: 16px;
+	color: #E014AE
+}
+.banner2 a:hover {
+	font-size: 20px;
+	color: #1358CD
+}
+.banner2 li {
+	width: 234px;
+	height: 200px;
+}
+.banner2 img:hover{transform: scale(1.1,1.1)}
+.li1 {
+	transform: translate(400px, -610px);
+}
+.li1 li {
+	display: inline-block;
+}
+.li2 {
+	transform: translate(400px, -600px)
+}
+.li2 li {
+	display: inline-block
+}
+.banner3 img:hover{transform: scale(1.2,1)}
